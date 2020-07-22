@@ -4,7 +4,8 @@ funktionellt interface = ett interface med fler implementerade metoder men bara 
 
 @FunctionalInterface
 
-
 inline implementation 
 
-lambda expressiion
+lambda expression
+
+https://www.youtube.com/watch?v=gpIUfj3KaOc&list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3
